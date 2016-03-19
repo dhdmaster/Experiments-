@@ -1,2 +1,3 @@
 # Experiments-
-Learning different things... 
+
+Learning new topics such as: web design, frontend technologies, and backend development. 
